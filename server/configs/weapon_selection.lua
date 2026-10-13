@@ -1,0 +1,3 @@
+return {
+  isMaxAmmoEnabled = true
+}

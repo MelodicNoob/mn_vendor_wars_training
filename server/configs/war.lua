@@ -1,0 +1,3 @@
+return {
+  defenderSetupDuration = 1,
+}
